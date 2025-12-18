@@ -3,7 +3,6 @@ import numpy as np
 import ast
 import matplotlib.pyplot as plt
 import seaborn as sns
-from ydata_profiling import ProfileReport
 from wordcloud import WordCloud
 import streamlit as st
 # Lecture du dataset
