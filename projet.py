@@ -231,7 +231,7 @@ plt.show()
 
 
 # Sauvegarder le dataset nettoyé
-df.to_csv(r"C:\Users\Guide Info\Desktop\miniprojetpython\titles_cleaned.csv", index=False)
+df.to_csv(r"./titles_cleaned.csv", index=False)
 print("Fichier nettoyé sauvegardé !")
 
 
