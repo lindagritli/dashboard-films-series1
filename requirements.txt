@@ -1,0 +1,8 @@
+pandas
+numpy
+ast
+matplotlib
+seaborn
+ydata_profiling
+wordcloud
+streamlit
