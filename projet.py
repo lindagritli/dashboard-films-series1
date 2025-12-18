@@ -6,7 +6,7 @@ import seaborn as sns
 from wordcloud import WordCloud
 import streamlit as st
 # Lecture du dataset
-df = pd.read_csv("C:/Users/Guide Info/Downloads/titles.csv")
+df = pd.read_csv("./titles.csv")
 nb_lignes, nb_colonnes = df.shape
 
 print("Nombre de lignes :", nb_lignes)

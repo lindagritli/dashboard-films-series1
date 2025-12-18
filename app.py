@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
 
-df = pd.read_csv("C:/Users/Guide Info/Desktop/miniprojetpython/titles_cleaned.csv")
+df = pd.read_csv("./titles_cleaned.csv")
 st.subheader("📋 Dataset nettoyé")
 st.dataframe(df) 
 
